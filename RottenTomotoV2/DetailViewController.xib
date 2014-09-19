@@ -27,7 +27,7 @@
                     <rect key="frame" x="0.0" y="0.0" width="320" height="545"/>
                     <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMinY="YES"/>
                     <subviews>
-                        <view alpha="0.74999999999999978" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="t8M-Zq-qnF" userLabel="Content View">
+                        <view alpha="0.75" contentMode="scaleToFill" fixedFrame="YES" translatesAutoresizingMaskIntoConstraints="NO" id="t8M-Zq-qnF" userLabel="Content View">
                             <rect key="frame" x="0.0" y="190" width="320" height="990"/>
                             <autoresizingMask key="autoresizingMask" flexibleMaxX="YES" flexibleMaxY="YES"/>
                             <subviews>
